@@ -10,4 +10,5 @@
 * [PicGo](https://github.com/Molunerfinn/PicGo/releases)
 * [DocBox](https://www.daokeyuedu.com/index.php?act=download)
 * [WeChat](https://pc.weixin.qq.com/)
+* [eudic](https://www.eudic.net/v4/en/app/download)
 
