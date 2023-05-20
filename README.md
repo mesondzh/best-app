@@ -14,3 +14,5 @@
 * [git](https://git-scm.com/downloads)
 * [QQPlayer](https://pc.qq.com/detail/8/detail_8.html)
 * [Everything](https://www.voidtools.com/zh-cn/)
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+
