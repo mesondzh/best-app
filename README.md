@@ -12,7 +12,7 @@
 * [WeChat](https://pc.weixin.qq.com/)
 * [eudic](https://www.eudic.net/v4/en/app/download)
 * [git](https://git-scm.com/downloads)
-* [QQPlayer](https://qqplayer.net/download/)
+* [QQPlayer](https://qqplayer.net/download/) | [PotPlayer](https://potplayer.daum.net/?lang=zh_CN)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
